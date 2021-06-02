@@ -1,0 +1,11 @@
+.DS_Store
+zips/
+audio/
+1_engine_presence/
+2_machinery-impact_presence/
+3_non-machinery-impact_presence/
+4_powered-saw_presence/
+5_alert-signal_presence/
+6_music_presence/
+7_human-voice_presence/
+8_dog_presence/
